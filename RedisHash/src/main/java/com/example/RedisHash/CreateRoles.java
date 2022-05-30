@@ -20,7 +20,8 @@ public class CreateRoles implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         if (repository.count() == 0) {
-            Role adminRole = Role.builder().name("admin").build();
+            Role adminRole = Role.uilder().name("admin").build();
+            class Car{
             Role customerRole = Role.builder().name("customer").build();
             repository.save(adminRole);
             repository.save(customerRole);
