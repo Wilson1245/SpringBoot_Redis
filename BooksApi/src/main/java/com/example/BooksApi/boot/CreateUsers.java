@@ -1,13 +1,13 @@
-package com.example.Secondary_Indexes.boot;
+package com.example.BooksApi.boot;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
-import com.example.Secondary_Indexes.RoleRepository;
-import com.example.Secondary_Indexes.UserRepository;
-import com.example.Secondary_Indexes.models.Role;
-import com.example.Secondary_Indexes.models.User;
+import com.example.BooksApi.models.Role;
+import com.example.BooksApi.models.User;
+import com.example.BooksApi.repositoies.RoleRepository;
+import com.example.BooksApi.repositoies.UserRepository;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.boot.CommandLineRunner;

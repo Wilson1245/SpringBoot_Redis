@@ -1,0 +1,28 @@
+[
+  {
+    "pageCount": 269,
+    "thumbnail": "http://books.google.com/books/content?id=NsseEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "price": 41.14,
+    "subtitle": "Explore Redis - Its Architecture, Data Structures and Modules like Search, JSON, AI, Graph, Time series (English Edition)",
+    "description": "Complete reference guide to Redis KEY FEATURES ● Complete coverage of Redis Modules.",
+    "language": "en",
+    "currency": "USD",
+    "id": "8194872344",
+    "title": "Redis(r) Deep Dive",
+    "infoLink": "https://play.google.com/store/books/details?id=NsseEAAAQBAJ&source=gbs_api",
+    "authors": ["Masuyo Dilip Kale", "Chin-may Karnail"]
+  },
+  {
+    "pageCount": 658,
+    "thumbnail": "http://books.google.com/books/content?id=NsseEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "price": 164.14,
+    "subtitle": "Explore Redis - Its Architecture, Data Structures and Modules like Search, JSON, AI, Graph, Time series (English Edition)",
+    "description": "Complete reference guide to Redis KEY FEATURES ● Complete coverage of Redis Modules.",
+    "language": "en",
+    "currency": "USD",
+    "id": "8194872898",
+    "title": "Redis(r) Deep Dive",
+    "infoLink": "https://play.google.com/store/books/details?id=NsseEAAAQBAJ&source=gbs_api",
+    "authors": ["Masuyo Dilip Kale", "Chin-may Karnail"]
+  }
+]
